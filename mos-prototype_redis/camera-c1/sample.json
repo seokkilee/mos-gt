@@ -1,0 +1,37 @@
+{
+    "objectData": [
+        {
+            "object_id": 216,
+            "type": "Car",
+            "coordinate": {
+                "x": 1110,
+                "y": 12
+            }
+        },
+        {
+            "object_id": 266,
+            "type": "Car",
+            "coordinate": {
+                "x": 902,
+                "y": 341
+            }
+        },
+        {
+            "object_id": 255,
+            "type": "Pedestrian",
+            "coordinate": {
+                  "x": 221,
+                  "y": 51
+            }
+        },
+        {
+            "object_id": 256,
+            "type": "Pedestrian",
+            "coordinate": {
+                "x": 260,
+                "y": 48
+            }
+        }
+    ],
+    "timestamp": "2022-04-05T08:34:38.824459Z"
+}
